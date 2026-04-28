@@ -33,7 +33,7 @@ This is a rebuild of the awesome project created by @hugoabernier [https://githu
 Solution|Author(s)
 --------|---------
 react-tiles-v2 | [Omar El-Anis](https://github.com/omarelanis) @ SP Bytes www.spbytes.com
-GTI-Tiles | [Bill Christopher](https://github.com/BillCgtigrows). 
+Tiles_GTI_Modern | [Bill Christopher](https://github.com/BillCgtigrows). 
 
 ## Version history
 
