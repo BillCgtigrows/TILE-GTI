@@ -40,6 +40,7 @@ Version|Date|Comments
 -------|----|--------
 1.0|July 14, 2021|Initial release
 1.1|October 14, 2021|Added sorting, static tile width and unique tile colour - [fthorild](https://github.com/fthorild)
+1.2|April 26, 2026|Added rounded tile corners and tile centering (https://github.com/BillCgtigrows).
 
 ## Minimal Path to Awesome
 
